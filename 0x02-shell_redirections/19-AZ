@@ -1,0 +1,2 @@
+#1/bin/bash
+  echo "My nAme is FAustinA CshAnd" | tr AC Ze 
