@@ -17,3 +17,7 @@ A script that changes the working directory to the user's home directory is "cd"
 ##3-listfiles
 3.The long formart
 Display the current directory contents in a long format "ls -l"
+
+##4-listmorefiles
+4.Hidden files
+To display current directory contents, including hidden files type "ls -la"
