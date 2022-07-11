@@ -25,4 +25,7 @@ To display current directory contents, including hidden files type "ls -la"
 ##5-listfilesdigitonly
 5.I love numbers
 To dipslay current directoy contents including Long format,with user and group IDs dispalayed numerically and hidden files(starting with .) type "ls -n"
-   
+
+##6-firstdirectory
+6.Welcome
+A script that creates a directory named my_first_directory in the /tmp/ directory is "mkdir my_first_directory /tmp/"   
