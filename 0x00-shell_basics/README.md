@@ -12,5 +12,8 @@ To display the content list of your current directory type "ls"
 
 ##2-bring_me_home
 2.There is no place like home
-A script that changes the working directory to the user's home directory is 
-echo $HOME
+A script that changes the working directory to the user's home directory is "cd"
+
+##3-listfiles
+3.The long formart
+Display the current directory contents in a long format "ls -l"
