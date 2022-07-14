@@ -1,1 +1,2 @@
-  $ adduser betty
+  #!/bin/bash
+  su betty
