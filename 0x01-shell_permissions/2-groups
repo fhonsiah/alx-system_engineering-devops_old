@@ -1,1 +1,2 @@
- $ id -G
+#!/bin/bash
+$ id -G
